@@ -44,10 +44,7 @@ body {
 }
 
 h1 {
-    color: black;
-    font-family: 'Merriweather', serif;
-
-
+   
 }
 
 li{
@@ -59,7 +56,6 @@ h3{
 }
 
 p {
-    font-family: 'Merriweather', serif;
   
  }
 
@@ -69,20 +65,17 @@ p {
  }
 
  table{
- 	margin-left: 100px;
+	 
  }
 
 
 /*index page css*/
 .intro{
-	width: 50%;
-	text-align: left;
 }
 
 /*education/ page css*/
  #past{
 
- 	border-top-style: solid;
  }
 
  /*work-experience css s*/
