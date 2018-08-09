@@ -43,6 +43,7 @@ body {
     padding-right:10px
 }
 
+
 h1 {
     color: black;
     font-family: 'Indie Flower', cursive;
@@ -73,32 +74,16 @@ li{
 	list-style: none;
 }
 
-
 p {
     font-family: 'Marcellus', serif;
 
+li{
+    list-style: none;
  }
-
 /*table css*/
- td {
-
- }
-
- table{
- 	margin-left: 100px;
- }
-
 
 /*index page css*/
-.intro{
-	width: 50%;
-	text-align: left;
-}
 
 /*education/ page css*/
- #past{
-
- 	border-top-style: solid;
- }
 
  /*work-experience css s*/
