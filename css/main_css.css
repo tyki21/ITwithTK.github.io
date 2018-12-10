@@ -21,6 +21,9 @@ list-style-type: none;
 	letter-spacing: normal;
 	line-height: 1.3em;
 	color: #596365;
+	transition: border 0.2s ease-in-out;
+	border-bottom: 1px solid transparent;
+}
 }
 
 #tabs a:hover {
@@ -33,6 +36,7 @@ list-style-type: none;
 	letter-spacing: normal;
 	line-height: 1.3em;
 	color: #000;
+	border-color: blue;
 }
 
 /*html css*/
@@ -82,16 +86,17 @@ li{
  }
  /* unvisited link */
 a:link {
-    color: grey;
-}
+color: grey;
+text-decoration: underline;
+	
 /* visited link */
 a:visited {
-    color: blue;
+color: blue;
 }
 /* mouse over link */
 a:hover {
-    color: red;
-		text-decoration: underline;
+color: red;
+
 }
 
 /*table css*/
@@ -100,4 +105,4 @@ a:hover {
 
 /*education/ page css*/
 
- /*work-experience css s*/
+/*work-experience css s*/
