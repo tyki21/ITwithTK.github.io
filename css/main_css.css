@@ -82,15 +82,18 @@ p {
 li{
     list-style: none;
  }
- /* unvisited link */
+
+/* unvisited link */
 a:link {
 color: grey;
 text-decoration: underline;
 }
+
 /* visited link */
 a:visited {
 color: blue;
 }
+
 /* mouse over link */
 a:hover {
 color: red;
